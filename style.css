@@ -1,0 +1,55 @@
+.heading{
+    width: 100px;
+    background-color:bisque;
+    margin: auto;
+}
+h1{
+    background-color: rgb(83, 82, 80);
+    height: 80px;
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 20px;
+}
+.button1{
+    width: 200px;
+    height: 50px;
+    margin-left: 550px;
+    background-color: rgb(132, 225, 153);
+}
+
+.button2{
+    width: 200px;
+    margin-left: 50px;
+    height: 50px;
+    background-color: rgb(132, 225, 153);
+}
+
+.full_div{
+    background-color: rgb(97, 105, 105);
+}
+
+.input_field{
+    height: 50px;
+    width: 40px;
+    margin-left: 50px;
+    font-size: 55px;
+}
+
+.div2{
+    width: 800px;
+    height: 530px;
+    border: 3px solid black;
+    margin:auto;
+    box-sizing: content-box;
+}
+
+p{
+    background-color: rgb(66, 65, 65);
+    color: white;
+    font-size: 20px;
+    margin-bottom: -10px;
+    border:8px solid rgb(113, 109, 109);
+}
